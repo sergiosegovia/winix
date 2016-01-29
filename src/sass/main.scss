@@ -3,6 +3,19 @@
 
 // Modules and Variables
 @import "modules/home";
+@import "modules/amigos";
+@import "modules/como_jugar";
+@import "modules/perfil";
+@import "modules/premios";
+@import "modules/terminos";
 
 // Partials
 @import "partials/header";
+
+body {
+  font-size: 16px;
+}
+
+ul {
+  list-style: none;
+}

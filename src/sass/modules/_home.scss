@@ -5,3 +5,37 @@
   background-position: center center;
   background-size: cover;
 }
+
+.featured {
+  padding-top: 70px;
+}
+
+.featured__character {
+  max-height: 60%;
+}
+
+.featured__description {
+  text-align: center;
+  padding-top: 3em;
+  margin-bottom: 3em;
+}
+
+.featured__logo,
+.featured__description p {
+  margin-bottom: 3em;
+}
+
+.markets ul {
+  display: inline-block;
+}
+
+.home-ads {
+  text-align: center;
+}
+
+.home-ads__item {
+  background-color: #0c574f;
+  padding: 1em;
+  width: 300px;
+  height: 80px;
+}
